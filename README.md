@@ -37,4 +37,4 @@ This is the eighth and final course in the Google Data Analytics Certificate. By
 [Link to capstone project]:
 
 # My certificate
-[Coursera V8PTHABGGLEA.pdf](https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/files/11242298/Coursera.V8PTHABGGLEA.pdf)
+![certificaat](https://user-images.githubusercontent.com/29818091/232312585-bacdc0df-a2df-477a-b388-c14d255c5aca.jpg)
