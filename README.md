@@ -34,7 +34,7 @@ This is the seventh course in the Google Data Analytics Certificate. You’ll ex
 ## Module 8: Google Data Analytics Capstone: Complete a Case Study
 This is the eighth and final course in the Google Data Analytics Certificate. By completing this program, you'll have gained the skills necessary to apply for introductory-level data analyst jobs. In this course, you'll have the opportunity to complete an optional case study that will help you prepare for the job hunt. You'll choose an analytics-based scenario, prepare, process, analyze, visualize and act on the data from the scenario. Additionally, you'll learn valuable job hunt skills through videos that cover common interview questions and responses, materials to build a portfolio online, and more. Current Google data analysts will provide you with hands-on guidance to accomplish common data analyst tasks with the best tools and resources.
 
-[Link to capstone project]:https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/tree/main/Capstone%20data
+[Link to capstone project]: https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/tree/main/Capstone%20data
 
 # My certificate
 ![certificaat](https://user-images.githubusercontent.com/29818091/232312585-bacdc0df-a2df-477a-b388-c14d255c5aca.jpg)
