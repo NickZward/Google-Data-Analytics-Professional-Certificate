@@ -21,3 +21,7 @@ The second chart shows that the electric bike gets used the most. The classical 
 This graph shows that casual riders spent on average more time on the bikes than members do.
 
 <img width="943" alt="Screenshot 2023-05-03 at 5 33 49 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/7a257d5c-3e36-44a9-acf1-c4799f99141d">
+
+# Recommendations:
+
+# Things to consider:
