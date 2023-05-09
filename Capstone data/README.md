@@ -12,9 +12,10 @@ As you can see in the chart below members and casual riders prefer to use the se
 
 <img width="621" alt="Screenshot 2023-05-03 at 4 37 01 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/20cff44e-3c05-4644-9d9e-24a9c41baae5">
 
-p
+The second chart shows that the electric bike gets used the most. The classical bike is also used a lot. The docked bike is barely used for whatever reason.
+
 <img width="619" alt="Screenshot 2023-05-03 at 4 39 14 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/afef7c30-f3da-4c86-8e7a-5a57a2f0b659">
 
+This graph shows that casual riders spent on average more time on the bikes than members do.
 
-p
 <img width="943" alt="Screenshot 2023-05-03 at 5 33 49 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/7a257d5c-3e36-44a9-acf1-c4799f99141d">
