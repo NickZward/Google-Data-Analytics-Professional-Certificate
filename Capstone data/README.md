@@ -9,3 +9,5 @@ There are two types of cyclists, those who purchase casual tickets and those who
 # What did the data tell us:
 
 <img width="621" alt="Screenshot 2023-05-03 at 4 37 01 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/20cff44e-3c05-4644-9d9e-24a9c41baae5">
+
+<img width="619" alt="Screenshot 2023-05-03 at 4 39 14 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/afef7c30-f3da-4c86-8e7a-5a57a2f0b659">
