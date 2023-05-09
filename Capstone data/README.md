@@ -13,3 +13,7 @@ p
 
 p
 <img width="619" alt="Screenshot 2023-05-03 at 4 39 14 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/afef7c30-f3da-4c86-8e7a-5a57a2f0b659">
+
+
+p
+<img width="943" alt="Screenshot 2023-05-03 at 5 33 49 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/7a257d5c-3e36-44a9-acf1-c4799f99141d">
