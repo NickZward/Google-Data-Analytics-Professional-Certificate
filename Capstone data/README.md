@@ -7,3 +7,5 @@ In 2016, Cyclistic launched a successful bike-share offering. Since then, the pr
 There are two types of cyclists, those who purchase casual tickets and those who purchase annual memberships. The marketing team believes that maximizing the annual number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, there is a very good chance to convert casual riders into members.
 
 # What did the data tell us:
+
+<img width="621" alt="Screenshot 2023-05-03 at 4 37 01 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/20cff44e-3c05-4644-9d9e-24a9c41baae5">
