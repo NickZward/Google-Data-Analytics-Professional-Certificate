@@ -23,6 +23,8 @@ This graph shows that casual riders spent on average more time on the bikes than
 <img width="943" alt="Screenshot 2023-05-03 at 5 33 49 PM" src="https://github.com/NickZward/Google-Data-Analytics-Professional-Certificate/assets/29818091/7a257d5c-3e36-44a9-acf1-c4799f99141d">
 
 # Recommendations:
+- The casual users might be more interested in a membership option that allows for per-use balance card (punch card). Alternatively, the existing payment structure may be altered in order to make single-use more costly to the casual users as well as lowering the long-term membership rate and/or offer a discounted promotional rate.
+- Membership rates specifically for the warmer months as well as for those who only ride on the weekends would assist in targeting the casual riders more specifically.
 
 # Things to consider:
 The report understands the scope of this analysis is extremely limited and because of that fact, additional data, as well as data points may have been able to contribute to this report offering an even more granular analysis. The following data points could enhance the report:
