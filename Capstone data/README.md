@@ -25,3 +25,5 @@ This graph shows that casual riders spent on average more time on the bikes than
 # Recommendations:
 
 # Things to consider:
+The report understands the scope of this analysis is extremely limited and because of that fact, additional data, as well as data points may have been able to contribute to this report offering an even more granular analysis. The following data points could enhance the report:
+- Age & Gender: This would add a dynamic to wether or not customers are being targeted across demographic lines. Is the excisting marekting effective? Is there potentional for more inclusive marketing? 
