@@ -26,4 +26,6 @@ This graph shows that casual riders spent on average more time on the bikes than
 
 # Things to consider:
 The report understands the scope of this analysis is extremely limited and because of that fact, additional data, as well as data points may have been able to contribute to this report offering an even more granular analysis. The following data points could enhance the report:
-- Age & Gender: This would add a dynamic to wether or not customers are being targeted across demographic lines. Is the excisting marekting effective? Is there potentional for more inclusive marketing? 
+- Age & Gender: This would add a dynamic to wether or not customers are being targeted across demographic lines. Is the excisting marekting effective? Is there potentional for more inclusive marketing?
+- Pricing structure: The actual pricing plans data was not provided and would give further insight to which plans are the most popular and by (how much) when comparing them. It would also be effective to understanding the spending behavior of casual users.
+- Houshold income data: Pinpointing the avarage income of the long-term members as compared to the casual counter-parts. Further analysis of what is the typical economic standing of each type of member, as well as providing the ability to understand overall price sensitivity between the two membership types.
